@@ -1,0 +1,21 @@
+{
+	"name": "uxmz/wp-jquery-update-test",
+	"description": "Test jQuery Updates",
+	"type": "wordpress-plugin",
+	"homepage": "https://wordpress.org/plugins/wp-jquery-update-test/",
+	"authors": [
+		{
+			"name": "Andrew Ozz",
+			"homepage": "https://profiles.wordpress.org/azaozz/"
+		},
+		{
+			"name": "UX Information Technologies",
+			"homepage": "https://ux.co.mz",
+			"email": "developers@ux.co.mz"
+		}
+	],
+    "require": {
+    },
+    "replace": {
+    }
+}
